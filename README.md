@@ -66,4 +66,3 @@ This project is licensed under the [MIT License](LICENSE). Please review the lic
 ---
 
 Note: The above summary provides a detailed description of InContext Learning within the context of this Git project. For more information, including code examples and specific instructions, please refer to the project's documentation and source code.
-![image](https://github.com/soumyadg/LLMs/assets/76854946/1d2703bd-f869-4b1a-a3b1-58c2ed239ed1)
